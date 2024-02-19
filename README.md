@@ -26,14 +26,10 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
-### Screenshot
-
-![](![image](https://github.com/MarlonMontenegro/fetch-advice-app-js/assets/103525183/51367a25-239d-4af7-aecb-47c64a6559f6))
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/MarlonMontenegro/fetch-advice-app-js]
+- Live Site URL: [https://your-live-site-url.com](https://marlonmontenegro.github.io/fetch-advice-app-js/)]
 
 ## My process
 
@@ -77,10 +73,8 @@ async function getAdvice() {
 
 - [MDN WEB DOCS](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - This helped me to understand how to use fetch API in javascript
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
-- Website - [Marlon Montenegr]([https://www.your-site.com](https://marlonmontenegro.github.io/montenegro-portfolio/))
+- Website - [Marlon Montenegro]([https://www.your-site.com](https://marlonmontenegro.github.io/montenegro-portfolio/))
 - Frontend Mentor - [@MarlonMontenegro]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/MarlonMontenegro))
 
