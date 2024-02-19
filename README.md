@@ -75,6 +75,6 @@ async function getAdvice() {
 
 ## Author
 
-- Website - [Marlon Montenegro]([https://www.your-site.com](https://marlonmontenegro.github.io/montenegro-portfolio/))
-- Frontend Mentor - [@MarlonMontenegro]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/MarlonMontenegro))
+- Website - [[https://www.marlonMontenegro-portafolio.com](https://marlonmontenegro.github.io/montenegro-portfolio/)]
+- Frontend Mentor - [@MarlonMontenegro [https://www.frontendmentor.io/profile/MarlonMontenegro](https://www.frontendmentor.io/profile/MarlonMontenegro)]
 
